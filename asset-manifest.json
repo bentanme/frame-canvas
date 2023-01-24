@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frame-canvas/static/css/main.dcef3e30.css",
+    "main.js": "/frame-canvas/static/js/main.aa574213.js",
+    "static/js/787.5615f342.chunk.js": "/frame-canvas/static/js/787.5615f342.chunk.js",
+    "static/media/sample-image.jpg": "/frame-canvas/static/media/sample-image.1e624b88224e19a32345.jpg",
+    "index.html": "/frame-canvas/index.html",
+    "main.dcef3e30.css.map": "/frame-canvas/static/css/main.dcef3e30.css.map",
+    "main.aa574213.js.map": "/frame-canvas/static/js/main.aa574213.js.map",
+    "787.5615f342.chunk.js.map": "/frame-canvas/static/js/787.5615f342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcef3e30.css",
+    "static/js/main.aa574213.js"
+  ]
+}
